@@ -1,0 +1,6 @@
+sdesc: "Update copyright information in files"
+ldesc: "Update the copyright information in set of files, possibly
+recursively, matching content criteria. The updating affects copyright
+year, GPL address information etc."
+category: Perl Utils
+requires: perl
