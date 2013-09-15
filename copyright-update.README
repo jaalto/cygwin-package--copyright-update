@@ -57,11 +57,14 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 2013.0915+gite8ab62a-1 -----
+- New upstream release 2013-09-15 Jari Aalto
+
 ----- version 2010.0307+git23ecad8-1 -----
 - New upstream release 2012-02-02 Jari Aalto
 
 ----- version 2010.0307+git23ecad8-1 -----
 - Initial release 2012-02-02 Jari Aalto
 
-Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
+Cygwin port maintained by: user <jari.aalto@cante.net>
+Copyright (C) 2012-2013 Jari Aalto; Licensed under GPL v2 or later
